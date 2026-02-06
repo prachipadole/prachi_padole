@@ -1,4 +1,4 @@
-# prachi_padole
+# prachipadole
 <h1 align="center">Hi 👋, I'm Prachi Padole</h1>
 <h3 align="center">Cloud & DevOps Engineer | AWS | Linux | CI/CD</h3>
 
